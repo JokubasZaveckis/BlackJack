@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1612541134 source:c:\users\jokûbas\desktop\papildomi\21\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<cstdlib>
+	<unistd.h>
+	"Zaidejas.h"
+	"Kalade.h"
+	"Dyleris.h"
+	"Intelektas.h"
+
+1611936862 c:\users\jokûbas\desktop\papildomi\21\zaidejas.h
+	<iostream>
+	"Korta.h"
+
+1611936147 source:c:\users\jokûbas\desktop\papildomi\21\zaidejas.cpp
+	"Zaidejas.h"
+
+1611936721 source:c:\users\jokûbas\desktop\papildomi\21\dyleris.cpp
+	"Dyleris.h"
+
+1611936721 c:\users\jokûbas\desktop\papildomi\21\dyleris.h
+	"Korta.h"
+	<iostream>
+
+1611937349 c:\users\jokûbas\desktop\papildomi\21\korta.h
+	<string>
+	<iostream>
+
+1611937756 source:c:\users\jokûbas\desktop\papildomi\21\kalade.cpp
+	"Kalade.h"
+
+1611936523 c:\users\jokûbas\desktop\papildomi\21\kalade.h
+	<string>
+	<iostream>
+	"Korta.h"
+
+1611937946 source:c:\users\jokûbas\desktop\papildomi\21\korta.cpp
+	"Korta.h"
+
+1612541355 c:\users\jokûbas\desktop\papildomi\21\intelektas.h
+	"Korta.h"
+
+1612541773 source:c:\users\jokûbas\desktop\papildomi\21\intelektas.cpp
+	"Intelektas.h"
+	<iomanip>
+
