@@ -1,0 +1,1 @@
+This repository contains the "brains" for a game called BlackJack. The game itself is played in console, where the user is paired against the computer. The computer is programmed to take the cards fairly with no strings attatched.
